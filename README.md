@@ -1,2 +1,2 @@
 # JavaImpDataStructure
-Using java to implement datastructure
+Using java to implement data structure
