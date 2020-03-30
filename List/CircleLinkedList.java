@@ -14,8 +14,6 @@ public class CCLinkList {
         l.appendCCL(4);
         l.appendCCL(5);
         System.out.println(l.getElement(3));
-
-
         System.out.println(l.length);
     }
     
